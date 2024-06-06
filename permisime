@@ -92,9 +92,152 @@
                                 stroke="none"
                                 fill="#d36494"
                                 fill-rule="evenodd"
-                        ></path>
+                       ></path>
                     </g>
                 </svg>
+                <span class="logo_subtext"> Resources </span>
+            </a>
+        </div>
+
+        <div class="header-button text-center">
+            <a href="contact.html" class="button1">Contact us?</a>
+        </div>
+    </header>
+
+    <div class="divider"></div>
+
+    <nav class="text-center">
+        <ul class="menu-main-menu text-center">
+            <li>
+                <a href="index.html">Homepage</a>
+            </li>
+            <li>
+                <a href="about.html">About</a>
+            </li>
+            <li>
+                <a href="candidates.html">Candidates</a>
+            </li>
+            <li>
+                <a href="services.html" class="active">Services</a>
+            </li>
+            <li>
+                <a href="contact.html">Contacts</a>
+            </li>
+        </ul>
+    </nav>
+
+    <section class="banner text-center">
+        <div class="banner-description">
+            <h2>Services</h2>
+            <p>HOME &nbsp; / &nbsp; Services</p>
+        </div>
+    </section>
+
+    <section class="content-two-column-container align-items-center pb30">
+        <figure class="p30 img-with-desc">
+            <img
+                    src="images/half_image.jpg"
+                    width="960"
+                    height="795"
+                    alt="foto right"
+                    style="width: 100%"
+            />
+            <figcaption>Fig.1 - Staff</figcaption>
+        </figure>
+        <div class="">
+            <div class="special-heading">
+                <h4>Human Agency!</h4>
+            </div>
+            <div class="text-block">
+                <ul style="list-style: circle">
+                    <li>Organizational & Employee Development</li>
+                    <li>Legal & Compliance</li>
+                    <li>
+                        Employee Relations
+                        <ol style="list-style: lower-roman; padding-left: 10px">
+                            <li>Attendance</li>
+                            <li>Conflict resolution</li>
+                            <li>Counseling</li>
+                            <li>Disciplinary issues</li>
+                            <li>Dress and appearance</li>
+                            <li>Employee conduct</li>
+                            <li>Employee handbooks</li>
+                            <li>Employee relations/communication/compliance</li>
+                            <li>Metrics &amp; analysis</li>
+                        </ol>
+                    </li>
+                    <li>Training</li>
+                </ul>
+            </div>
+            <audio src="repository/hr.mp3" controls autoplay class="pt30 pb30">
+                <p>
+                    If you are reading this, it is because your browser does not
+                    support the audio element.
+                </p>
+            </audio>
+        </div>
+    </section>
+
+    <footer>
+        <div class="gradient-bg1 gradient-padding-bg">
+            <div class="content-three-column-container pt30 pb30">
+                <div class="text-center">
+                    <div class="special-titles mb30 mt30 text-center">
+                        <h3>Explore</h3>
+                    </div>
+
+                    <table class="navF">
+                        <tr>
+                            <td align="right"><a href="about.html">About</a></td>
+                            <td align="left"><a href="candidates.html">Candidates</a></td>
+                        </tr>
+                        <tr>
+                            <td align="right"><a href="services.html">Services</a></td>
+                            <td align="left"><a href="contact.html">Contacts</a></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="text-center">
+                    <img src="images/logo.png" class="mb30" alt=""/>
+                    <p class="mb30 text-italic">
+                        Human resources is the set of the people who make up the workforce of an organization, business sector, industry, or economy. A narrower concept is human capital, the knowledge which the individuals embody.
+                    </p>
+                    <div class="contactF">
+                        <address>
+                            <p>
+                                <i class="fa fa-map-marker highlight"></i> 10000 Prishtina, Kosova
+                            </p>
+                            <p>
+                                <a href="tel:+101 123 456 789"
+                                ><i class="fa fa-phone highlight"></i> +101 123 456 789</a
+                                >
+                            </p>
+                            <p>
+                                <a href="mailto:example@example.com"
+                                ><i class="fa fa-envelope highlight"></i>
+                                    example@example.com</a
+                                >
+                            </p>
+                        </address>
+                    </div>
+                </div>
+                <video class="mt30" width="100%" controls>
+                    <source src="repository/hr.mp4" type="video/mp4"/>
+                    <source src="movie.ogg" type="video/ogg"/>
+                </video>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© Copyright 2022 All Rights Reserved</p>
+        </div>
+    </footer>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
+
                 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
