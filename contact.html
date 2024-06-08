@@ -14,21 +14,7 @@
     <link rel="stylesheet" type="text/css" href="style/main.css"/>
 
     <script>
-        (function getGeolocation() {
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(alertLocation);
-            } else {
-                console.log("Geolocation is not supported by this browser.");
-            }
-        })();
-
-        function alertLocation(position) {
-            const location = {
-                latitude: position.coords.latitude,
-                longitude: position.coords.longitude
-            }
-            alert('You are located at: ' + location.latitude + ', ' + location.longitude);
-        }
+     
     </script>
 </head>
 <body>
