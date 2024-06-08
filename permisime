@@ -126,12 +126,7 @@
         </ul>
     </nav>
 
-    <section class="banner text-center">
-        <div class="banner-description">
-            <h2>Services</h2>
-            <p>HOME &nbsp; / &nbsp; Services</p>
-        </div>
-    </section>
+   
 
     <section class="content-two-column-container align-items-center pb30">
         <figure class="p30 img-with-desc">
