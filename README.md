@@ -15,8 +15,11 @@ This is a Human Resource website that tents to solve management of human resourc
 
 ## Mentor
 
-* Prof. Betim Gashi  *Asistente . Greta Ahma 
+* Prof. Betim Gashi
 
 ## Group members (Contributors)
 
-* Arion Kastrati (ak61269@ubt-uni.net)
+* Bekri Beluli (bb48576@ubt-uni.net)
+* Elham Dërmaku (ed47770@ubt-uni.net)
+* Dardan Rrmoku (dr48334@ubt-uni.net)
+* Arion Shala (as48704@ubt-uni.net)
